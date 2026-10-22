@@ -1,4 +1,4 @@
-# Martín Frette — Portfolio personal (reconstrucción hasta V10)
+# Martín Frette — Portfolio personal V11
 
 Esta carpeta reúne una **reconstrucción editable** del estado conceptual/documentado del sitio hasta la versión 10, usando los archivos y decisiones disponibles en el proyecto.
 
@@ -24,7 +24,12 @@ Esta carpeta reúne una **reconstrucción editable** del estado conceptual/docum
 ## Importante
 El código original generado por el publicador de `chatgpt.site` no está expuesto en esta sesión. Por eso este ZIP no pretende ser una copia byte-a-byte del deploy online: es una reconstrucción limpia y apta para Git/GitHub basada en la documentación y recursos disponibles hasta V10.
 
-Los cambios posteriores a V10 (por ejemplo, `04 / Docencia / Bitácora de Ideas`) no se incorporaron aquí para respetar el corte solicitado.
+## Cambios V11
+- Nueva sección `04 / Docencia / BITÁCORA DE IDEAS`.
+- Primera entrada: `IA + Diseño — Nuevos roles. Nuevas metodologías.`
+- Imagen editorial asociada a la publicación.
+- Enlace externo al post original de LinkedIn.
+- Se mantiene el sillón como favicon e isotipo del navbar.
 
 ## Uso
 Abrir `index.html` localmente o servir la carpeta con cualquier servidor estático. Es compatible con GitHub Pages.
